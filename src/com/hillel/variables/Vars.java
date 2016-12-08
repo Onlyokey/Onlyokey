@@ -15,6 +15,20 @@ double b =25;
 double c = a/b;
 
 System.out.println(c);
+System.out.println("Hello world");
 
 }
 }
+
+//git status
+//vi .gitignore
+
+//чтоб выйти с сохранением :wq
+//чтоб выйти без сохранения :w!
+
+//git add .
+//git status
+//git config user.name
+//git config user.email "onlyokeey@gmail.com"
+//git commit -m "first save"
+//git log
